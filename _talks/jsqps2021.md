@@ -9,7 +9,7 @@ location: "Online"
 ---
 Co-authored with Kenneth Mori McElwain and Yuki Shiraito
 
-[Download paper](ksaki.github.io/files/intLawJapan.pdf)
+[Download paper](https://ksaki.github.io/files/intLawJapan.pdf)
 
 Abstract: 
 Although scholars have been skeptical about the effect of international law on state behavior,
