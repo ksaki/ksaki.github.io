@@ -2,7 +2,7 @@
 title: "Paragraph-citation Topic Models for Corpora with Citation Networks"
 collection: talks
 type: "Talk"
-permalink: /talks/polmeth2020.md
+permalink: /talks/polmeth2020
 venue: "Polmeth 2020"
 date: 2020-07-14
 location: "Online"
