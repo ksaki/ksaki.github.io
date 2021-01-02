@@ -1,7 +1,7 @@
 ---
 title: "International Law as Legal Obligations or Global Standards? Experimental Evidence from Japan"
-collection: publications
-permalink: /publication/intLawJapan
+collection: research
+permalink: /research/intLawJapan
 excerpt: ''
 date: 2020-12-25
 venue: 'Working Paper'
