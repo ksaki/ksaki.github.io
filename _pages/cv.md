@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+My full cv is [here](https://ksaki.github.io/files/saki_cv.pdf). 
+
 Education
 ======
 * Ph.D in Political Science and Scientific Computing, University of Michigan, 2023 (expected)
@@ -18,7 +20,7 @@ Education
   
 Talks
 ======
-  <ul>{% for post in site.talks %}
+  <ul>{% for post in site.talks reverse %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
