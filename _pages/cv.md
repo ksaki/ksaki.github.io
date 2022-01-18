@@ -18,7 +18,7 @@ Education
 * B.A. in Liberal Arts, University of Tokyo, 2017
 
   
-Talks
+Research
 ======
   <ul>{% for post in site.talks reverse %}
     {% include archive-single-talk-cv.html %}
@@ -27,5 +27,5 @@ Talks
 
 Skills
 ======
-* R, Python, Rcpp, C++, STATA
+* R, Python, Rcpp, C++, STATA, SQL
 * English, Japanese
