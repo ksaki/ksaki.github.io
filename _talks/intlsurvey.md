@@ -9,6 +9,7 @@ Co-authored with Kenneth Mori McElwain and Yuki Shiraito
 [Download paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3800474)
 
 Abstract: 
+
 Although scholars have been skeptical about the effect of international law on state behavior,
 recent studies show that non-state actors such as human rights activists pressure governments
 to comply with international laws, and that the general public in advanced democracies tend to
