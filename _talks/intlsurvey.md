@@ -2,14 +2,11 @@
 title: "International Law as Legal Obligations or Global Standards? Experimental Evidence from Japan"
 collection: talks
 type: "Talk"
-permalink: /talks/jsqps2021
-venue: "JSQPS 2021"
-date: 2021-01-10
-location: "Online"
+permalink: /talks/intlsurvey
 ---
 Co-authored with Kenneth Mori McElwain and Yuki Shiraito
 
-[Download paper](https://ksaki.github.io/files/intLawJapan.pdf)
+[Download paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3800474)
 
 Abstract: 
 Although scholars have been skeptical about the effect of international law on state behavior,
