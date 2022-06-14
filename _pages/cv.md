@@ -27,5 +27,5 @@ Research
 
 Skills
 ======
-* R, Python, Rcpp, C++, STATA, SQL
+* R, Python, Rcpp, C++, Git, Bash
 * English, Japanese
