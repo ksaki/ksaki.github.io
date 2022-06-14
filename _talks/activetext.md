@@ -2,7 +2,7 @@
 title: "Improving Probabilistic Models in Text Classification via Active Learning" 
 collection: talks
 type: "Talk"
-permalink: /talks/apsa2020
+permalink: /talks/activetext
 ---
 Co-authored with Mitchell Bosley, Yuki Shiraito, and Ted Enamorado
 
