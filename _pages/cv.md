@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-My full cv is [here](https://ksaki.github.io/files/saki_cv.pdf). 
+My full cv is [here](https://ksaki.github.io/files/kuzushima_cv.pdf). 
 
 Education
 ======
